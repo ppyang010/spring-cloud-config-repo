@@ -1,3 +1,7 @@
+info:
+  profile: default
+  from: git1
+
 spring:
   application:
     name: could-eureka-consumer
