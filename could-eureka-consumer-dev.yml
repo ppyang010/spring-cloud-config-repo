@@ -1,0 +1,15 @@
+#
+#spring:
+#  application:
+#    name: could-eureka-consumer
+#server:
+#  port: 7720
+#eureka:
+#  client:
+#    serviceUrl:
+#      defaultZone: http://127.0.0.1:7700/eureka
+#
+
+form:
+  profile: dev
+  remark: 测试数据-dev
